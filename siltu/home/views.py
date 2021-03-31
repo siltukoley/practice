@@ -11,7 +11,7 @@ def contact(request):
         email = request.POST['email']
         phone=request.POST['phone']
         content =request.POST['content']
-        contact.save(test)
+        contact.save()
     return render(request,'home/contact.html')
 
 def about(request): 
