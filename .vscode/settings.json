@@ -1,0 +1,11 @@
+{
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "remote.extensionKind": {
+        "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"],
+        "pub.name": [
+            "ui"
+        ]
+    },
+}
