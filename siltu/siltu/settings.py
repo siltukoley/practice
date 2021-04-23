@@ -15,7 +15,7 @@ import os
 from django.contrib.messages import constants as messages
 
 MESSAGE_TAGS = {
-    messages.ERROR:'denger'
+    messages.ERROR:'danger'
 }
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
